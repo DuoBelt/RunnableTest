@@ -14,6 +14,7 @@ public class RunnableTest {
        }
 	     };
 	     
+// W oczekiwaniu na lamba
 	    // Lambda Runnable
 // Runnable r2 = () -> System.out.println("Hello world two!");
 	     
